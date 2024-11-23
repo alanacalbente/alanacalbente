@@ -1,5 +1,4 @@
 
-
 <div align="center">
   <h1>Hi there 🌈 I'm Alana 👩🏻‍💻</h1>
   <img src="https://via.placeholder.com/1000x10/FFC0CB/FFFFFF?text=" alt="Divisor decorativo" />
@@ -28,8 +27,14 @@ A developer from Brazil learning every day.
 
 <img src="https://media.giphy.com/media/wIePCLOwUQ4RW/giphy.gif" width="300" alt="Despedida com GIF">
 
-
 </div>
 
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alanacalbente/alanacalbente/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alanacalbente/alanacalbente/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
 
