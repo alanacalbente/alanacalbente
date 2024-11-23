@@ -1,0 +1,26 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Atualiza diariamente
+  workflow_dispatch:  # Permite disparar manualmente também
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      
+    - name: Generate snake animation
+      uses: Platane/snk@v2
+      with:
+        github_user_name: alanacalbente  # Substitua pelo seu nome de usuário
+        outputs: dist
+
+    - name: Deploy to GitHub Pages
+      uses: crazy-max/ghaction-github-pages@v2.1.3
+      with:
+        target_branch: output
+        build_dir: dist
