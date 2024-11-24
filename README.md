@@ -25,7 +25,9 @@ A developer from Brazil learning every day.
 ![GitHub](https://img.shields.io/badge/GitHub-ADD8E6?style=for-the-badge&logo=github&logoColor=black)
 
 
-<img src="https://media.giphy.com/media/wIePCLOwUQ4RW/giphy.gif" width="300" alt="Despedida com GIF">
+<img src="https://media.giphy.com/media/wIePCLOwUQ4RW/giphy.gif" width="170" alt="Despedida com GIF">
+
+
 
 </div>
 
