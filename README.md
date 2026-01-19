@@ -1,7 +1,6 @@
 
 <div align="center">
   <h1>Hi there 🌈 I'm Alana 👩🏻‍💻</h1>
-  <img src="https://via.placeholder.com/1000x10/FFC0CB/FFFFFF?text=" alt="Divisor decorativo" />
 
 A developer from Brazil learning every day.
 
