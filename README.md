@@ -4,7 +4,8 @@
 
 A developer from Brazil learning every day.
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alanacalbente&show_icons=true&theme=radical)
+# 📊 Minhas Estatísticas
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radial)
 
 ## 💌 Connect with me!
 
@@ -19,7 +20,6 @@ A developer from Brazil learning every day.
 ![HTML5](https://img.shields.io/badge/HTML5-DDA0DD?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-FFA07A?style=for-the-badge&logo=css3&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-BA55D3?style=for-the-badge&logo=python&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-ADD8E6?style=for-the-badge&logo=github&logoColor=black)
 
