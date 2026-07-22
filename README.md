@@ -5,7 +5,7 @@
 A developer from Brazil learning every day.
 
 # 📊 Minhas Estatísticas
-![Estatísticas do GitHub de Alana](https://github-readme-stats.vercel.app/api?username=alanacalbente&show_icons=true&theme=radial)
+![Estatísticas do GitHub de Alana](https://github-readme-stats-fast.vercel.app/api?username=alanacalbente&show_icons=true&theme=radial)
 
 ## 💌 Connect with me!
 
