@@ -5,7 +5,7 @@
 A developer from Brazil learning every day.
 
 # 📊 Minhas Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanacalbente&show_icons=true&theme=radial)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALANCALBENTE&show_icons=true&theme=dracula)
 
 ## 💌 Connect with me!
 
